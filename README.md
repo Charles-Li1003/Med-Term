@@ -2,6 +2,7 @@
 The little LLM for AI Design course
 
 FileGPT:
+
         简介：使用基础的Transformer底层架构搭建一个六层的LLM \
         源仓库地址：https://github.com/karpathy/nanoGPT \
         模型配置：GPTConfig(block_size=256, vocab_size=50304, n_layer=6, n_head=8, n_embd=768, dropout=0.0, bias=False) \
